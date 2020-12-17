@@ -213,7 +213,7 @@
 }
 
 .sub_pic img {
-  box-shadow: 0 0 10px 6px rgba(0, 0, 0, 0.18);
+  box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.18);
 }
 
 .sub_text {
@@ -224,7 +224,7 @@
 .sub_text h2 {
   font-size: 55px;
   color: #222;
-  padding: 20px 30px;
+  padding: 0 30px;
 }
 
 .sub_text h2 span {
@@ -293,7 +293,9 @@
 .copyright {
   float: left;
   color: #fff;
+  opacity: 0.76;
   width: 30%;
+  line-height: 1.6;
 }
 
 .bottom .info {
